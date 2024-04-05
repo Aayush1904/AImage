@@ -76,7 +76,8 @@ const Services = () => {
                 <h4 className="h4 mb-4">Image Generation</h4>
                 <p className="body-2 mb-[2rem] text-n-3">
                   The world's most powerful AI photo art generation engine. What
-                  will you create?
+                  will you create? This image generation will be done using
+                  unplashed API key and will fetch data from it..
                 </p>
 
                 <ul className="flex items-center justify-between">

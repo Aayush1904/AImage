@@ -34,8 +34,8 @@ const Hero = () => {
             </span>
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
-            Unleash the power of AI within Imager. Upgrade your Images with
-            Imager, the open AI Image Enhancer.
+            Unleash the power of AI within AImage. Upgrade your Images with
+            AImage, the open AI Image Enhancer.
           </p>
           <Button href="/pricing" white>
             Get Started
